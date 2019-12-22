@@ -1,0 +1,11 @@
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\obj\Debug\TabletSoftware.csprojAssemblyReference.cache
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\obj\Debug\TabletSoftware.Properties.Resources.resources
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\obj\Debug\TabletSoftware.csproj.GenerateResource.cache
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\obj\Debug\TabletSoftware.csproj.CoreCompileInputs.cache
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\bin\Debug\TabletSoftware.exe.config
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\bin\Debug\TabletSoftware.exe
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\bin\Debug\TabletSoftware.pdb
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\obj\Debug\TabletSoftware.exe
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\obj\Debug\TabletSoftware.pdb
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\obj\Debug\TabletSoftware.FormMain.resources
+D:\PROJECT\GitHub\TabletSoftware\TabletSoftware\TabletSoftware\obj\Debug\TabletSoftware.FormClock.resources
