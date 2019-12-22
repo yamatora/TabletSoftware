@@ -1,0 +1,7 @@
+/TabletSoftware/TabletSoftware/obj
+/TabletSoftware/TabletSoftware/bin
+/TabletSoftware/.vs/TabletSoftware/v15/*.suo
+/TabletSoftware/.vs/TabletSoftware/v15/Server/sqlite3/*.lock
+/TabletSoftware/.vs/TabletSoftware/v15/Server/sqlite3/*.ide
+/TabletSoftware/.vs/TabletSoftware/v15/Server/sqlite3/*.ide-shm
+/TabletSoftware/.vs/TabletSoftware/v15/Server/sqlite3/*.ide-wal
